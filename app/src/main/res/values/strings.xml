@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CotacaoAPI</string>
+    <string name="select">Selecione uma opção para ver a cotação atual:</string>
+
+    <string-array name="currencies_array">
+        <item>Dólar</item>
+        <item>Euro</item>
+        <item>Peso Argentino</item>
+        <item>Libra Esterlina</item>
+        <item>Bitcoin</item>
+    </string-array>
+</resources>
