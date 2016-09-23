@@ -27,6 +27,8 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginTop="26dp"
+        android:divider="#000000"
+        android:dividerHeight="2dp"
         android:entries="@array/currencies_array"
         android:id="@+id/currencyList" />
 </RelativeLayout>
